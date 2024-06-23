@@ -1,0 +1,19 @@
+.admin-container {
+  padding: 20px;
+}
+
+.admin-tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.admin-tabs button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.admin-content {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
